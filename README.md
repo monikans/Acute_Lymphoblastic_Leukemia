@@ -40,8 +40,6 @@ The models demonstrated exceptional performance on the test dataset, with key me
 
 ### Example Predictions
 
-![Sample Predictions]
-
 The model’s predictions exhibit high confidence and accuracy.
 
 ## 🤝 Contributing
