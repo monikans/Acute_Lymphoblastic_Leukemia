@@ -4,12 +4,12 @@ This repository presents a comprehensive deep learning approach to detecting and
 
 ## 🌟 Table of Contents
 
-- [Introduction]
-- [Dataset]
-- [Model Architecture]
-- [Results]
-- [Contributing]
-- [Acknowledgments]
+- Introduction
+- Dataset
+- Model Architecture
+- Results
+- Contributing
+- Acknowledgments
 
 ## 🧬 Introduction
 
