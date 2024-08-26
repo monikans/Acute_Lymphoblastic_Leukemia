@@ -4,12 +4,12 @@ This repository presents a comprehensive deep learning approach to detecting and
 
 ## 🌟 Table of Contents
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
+- [Introduction]
+- [Dataset]
+- [Model Architecture]
+- [Results]
+- [Contributing]
+- [Acknowledgments]
 
 ## 🧬 Introduction
 
@@ -40,9 +40,9 @@ The models demonstrated exceptional performance on the test dataset, with key me
 
 ### Example Predictions
 
-![Sample Predictions](images/sample_predictions.png)
+![Sample Predictions]
 
-The model’s predictions exhibit high confidence and accuracy, as shown in the example images above.
+The model’s predictions exhibit high confidence and accuracy.
 
 ## 🤝 Contributing
 
